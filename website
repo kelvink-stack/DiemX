@@ -1,0 +1,29 @@
+echo "# DiemX" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/kelvink-stack/DiemX.git
+git push -u origin master
+<div class="container">   
+<div class="row">     
+<div class="col-sm-4">       
+<h3>Experience</h3>       
+<p>Software Development Engineer at Amazon (October 2020)</p>       
+<p>Teaching STEM people the importance of Personal Branding (July 2020 - Now)</p>       
+<p>Data Scientist at SEEK Asia (2018-2020)</p>     
+</div>     
+<div class="col-sm-4">       
+<h3>Education</h3>       
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>       
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>     
+</div>     
+<div class="col-sm-4">      
+<h3>Hackathons</h3>              
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>       
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>     
+</div>   
+</div>
+</div>
+
+</body>
+</html>
